@@ -1,0 +1,6 @@
+{
+ "user":"monacoinrpc",
+ "password":"your password",
+ "host":"127.0.0.1",
+ "port":4444
+}
